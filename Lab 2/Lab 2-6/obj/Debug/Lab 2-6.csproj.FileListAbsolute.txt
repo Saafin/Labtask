@@ -1,0 +1,6 @@
+E:\.git\Lab 2\Lab 2-6\bin\Debug\Lab 2-6.exe.config
+E:\.git\Lab 2\Lab 2-6\bin\Debug\Lab 2-6.exe
+E:\.git\Lab 2\Lab 2-6\bin\Debug\Lab 2-6.pdb
+E:\.git\Lab 2\Lab 2-6\obj\Debug\Lab 2-6.csproj.CoreCompileInputs.cache
+E:\.git\Lab 2\Lab 2-6\obj\Debug\Lab 2-6.exe
+E:\.git\Lab 2\Lab 2-6\obj\Debug\Lab 2-6.pdb
